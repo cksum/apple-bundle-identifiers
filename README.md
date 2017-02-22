@@ -10,6 +10,7 @@
 
 | Icon | App | Bundle Identifier |
 | --- | --- | --- |
+| | Activity | com.apple.Fitness |
 | <img src="img/icon_app_store_large_2x.jpg" width="52"/> | App Store |  com.apple.AppStore |
 | <img src="img/icon_apple_store_large_2x.jpg" width="52"/> | Apple Store | com.apple.store.Jolly |
 | <img src="img/icon_applewatch_large_2x.jpg" width="52"/> | Apple Watch | com.apple.Bridge |
